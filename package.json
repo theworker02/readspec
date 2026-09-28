@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/readspec",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Read lightweight spec statistics from stdin samples.",
+  "bin": {
+    "readspec": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/readspec.git"
+  },
+  "homepage": "https://theworker02.github.io/readspec/",
+  "keywords": [
+    "read",
+    "spec",
+    "stat",
+    "cli",
+    "toolkit"
+  ]
+}
